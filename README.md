@@ -9,3 +9,4 @@
 |一些簡單資訊|1.可以顯示常用連結 <br>2.把最新消息放在首頁布告欄 <br>3.重要訊息放在首頁的跑馬燈 <br>4.當常用的連結有新的動態時會給予通知 <br>5.關注過的新聞會常常出現在首頁
 https://app.moqups.com/CwoTbbLvwC/view/page/aa9df7b72
 https://sites.google.com/view/nptu-housemood
+https://its.google.com/view/cba10603landcba106032/home

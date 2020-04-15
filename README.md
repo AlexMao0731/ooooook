@@ -8,3 +8,4 @@
 |期望是可以單鍵註冊| 1.按"註冊"後只需信箱帳密即可註冊 <br>2.若沒有信箱可以註冊可以選擇使用社群帳號註冊 <br>3.會有輸入使用者姓氏及名字的欄位 <br>4.需要輸入出生日期 <br>5.需勾選"I'm not a robot"的格子才可註冊
 |一些簡單資訊|1.可以顯示常用連結 <br>2.把最新消息放在首頁布告欄 <br>3.重要訊息放在首頁的跑馬燈 <br>4.當常用的連結有新的動態時會給予通知 <br>5.關注過的新聞會常常出現在首頁
 https://app.moqups.com/CwoTbbLvwC/view/page/aa9df7b72
+https"//sites.google.com/view/nptu-housemood
